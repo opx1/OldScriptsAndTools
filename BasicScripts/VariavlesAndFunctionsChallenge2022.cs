@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class VariablesAndFunctions : MonoBehaviour
+public class VariavlesAndFunctionsChallenge2022 : MonoBehaviour
 {   
     int myInt = 5;
     

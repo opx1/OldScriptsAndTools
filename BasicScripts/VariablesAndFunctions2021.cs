@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class VariablesAndFunctions : MonoBehaviour
+public class VariablesAndFunctions2021 : MonoBehaviour
 {
     private int myInt = 5;
     private int myNum = 50;

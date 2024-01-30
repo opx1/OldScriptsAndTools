@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class BasicSyntax : MonoBehaviour
+public class ConventionsAndSyntaxChallenge2022 : MonoBehaviour
 {
     void Start ()
     {

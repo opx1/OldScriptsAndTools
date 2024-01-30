@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class ConversationScript : MonoBehaviour 
+public class SwitchStatementsChallenge2022 : MonoBehaviour 
 {
     public int intelligence = 5;
     

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 [CreateAssetMenu]
-public class IntData : ScriptableObject
+public class IntData2021 : ScriptableObject
 {
     public int value;
 

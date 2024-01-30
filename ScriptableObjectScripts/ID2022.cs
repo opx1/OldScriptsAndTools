@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [CreateAssetMenu]
-public class ID : ScriptableObject
+public class ID2022 : ScriptableObject
 {
    
 }

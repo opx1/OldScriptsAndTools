@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class Target : MonoBehaviour
+public class Target52021 : MonoBehaviour
 {
 
     private Rigidbody targetRb;

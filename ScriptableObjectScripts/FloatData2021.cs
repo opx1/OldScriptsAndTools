@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 
 [CreateAssetMenu]
-public class FloatData : ScriptableObject
+public class FloatData2021 : ScriptableObject
 {
    public UnityEvent onZeroEvent;
 

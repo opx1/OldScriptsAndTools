@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class Arrays : MonoBehaviour
+public class ArraysChallenge2022 : MonoBehaviour
 {
     public GameObject[] pc;
 

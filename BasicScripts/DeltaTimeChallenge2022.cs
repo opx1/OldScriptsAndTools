@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class UsingDeltaTime : MonoBehaviour
+public class DeltaTimeChallenge2022 : MonoBehaviour
 {
     public float speed = 12f; 
     public float countdown = 10.0f;

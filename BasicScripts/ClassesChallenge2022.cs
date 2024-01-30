@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class SingleCharacterScript : MonoBehaviour
+public class ClassesChallenge2022 : MonoBehaviour
 {
     public class Stuff
     {

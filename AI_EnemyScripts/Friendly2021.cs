@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class Friendly : MonoBehaviour
+public class Friendly2021 : MonoBehaviour
 {
   [SerializeField] private UnityEvent myTrigger;
   [SerializeField] private ParticleSystem heartParticle;

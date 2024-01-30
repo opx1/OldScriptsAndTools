@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class EnemySpawnManager : MonoBehaviour
+public class EnemySpawnManager2022 : MonoBehaviour
 {
   public GameObject[] ufoPrefabs;
   private float spawnRangex = 20f;

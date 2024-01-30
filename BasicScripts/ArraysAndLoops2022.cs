@@ -2,7 +2,7 @@
 
 using System;
 					
-public class Program
+public class ArraysAndLoops2022 : MonoBehavior
 {
 	public void Main()
 	{

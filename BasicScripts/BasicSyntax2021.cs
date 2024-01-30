@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BasicSyntax : MonoBehaviour
+public class BasicSyntax2021 : MonoBehaviour
 {
    private void Start()
    {

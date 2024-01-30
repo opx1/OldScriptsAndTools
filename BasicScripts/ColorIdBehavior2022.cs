@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ColorIdBehavior : IdContainerBehavior
+public class ColorIdBehavior2022 : IdContainerBehavior
 {
     public ColorIDDataList colorIDDataListObj;
 

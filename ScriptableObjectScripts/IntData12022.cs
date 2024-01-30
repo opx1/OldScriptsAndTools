@@ -2,7 +2,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 
 [CreateAssetMenu]
-public class IntData : ScriptableObject
+public class IntData12022 : ScriptableObject
 {
    public int value;
 

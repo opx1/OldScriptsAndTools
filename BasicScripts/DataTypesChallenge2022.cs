@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class DatatypeScript : MonoBehaviour 
+public class DataTypesChallenge2022 : MonoBehaviour 
 {
     void Start () 
     {

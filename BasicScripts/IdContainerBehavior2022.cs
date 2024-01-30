@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class IdContainerBehavior : MonoBehaviour
+public class IdContainerBehavior2022 : MonoBehaviour
 {
    public ID idObj;
    public UnityEvent startEvent;

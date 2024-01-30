@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class CameraLookAt : MonoBehaviour
+public class LookAtChallenge2022 : MonoBehaviour
 {
     public Transform target;
     

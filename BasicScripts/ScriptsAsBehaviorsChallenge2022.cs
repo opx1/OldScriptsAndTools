@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class ExampleBehaviourScript : MonoBehaviour
+public class ScriptsAsBehaviorsChallenge2022 : MonoBehaviour
 {
     void Update()
     {

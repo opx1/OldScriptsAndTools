@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class EnumScript : MonoBehaviour 
+public class EnumerationChallenge2022 : MonoBehaviour 
 {
     enum Direction {North, East, South, West};
 

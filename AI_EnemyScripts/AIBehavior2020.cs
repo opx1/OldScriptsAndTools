@@ -5,7 +5,7 @@ using UnityEngine.AI;
 
 [RequireComponent(typeof(NavMeshAgent))]
 
-public class AIBehavior : MonoBehaviour
+public class AIBehavior2020 : MonoBehaviour
 {
 
     private NavMeshAgent agent;

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TargetX : MonoBehaviour
+public class TargetX52021 : MonoBehaviour
 {
     private Rigidbody rb;
     private GameManagerX gameManagerX;

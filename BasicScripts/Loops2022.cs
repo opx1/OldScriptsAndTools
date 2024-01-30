@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class ForLoop : MonoBehaviour
+public class Loops2022 : MonoBehaviour
 {
     int numEnemies = 3;
     
