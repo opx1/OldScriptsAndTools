@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class InvokeScript : MonoBehaviour 
+public class Invoke2022 : MonoBehaviour 
 {
     public GameObject target;
     

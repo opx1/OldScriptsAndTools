@@ -5,7 +5,7 @@ using TMPro;
 using  UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class GameManager : MonoBehaviour
+public class GameManager52021 : MonoBehaviour
 {
     public List<GameObject> targets;
     private float spawnRate =1.0f;

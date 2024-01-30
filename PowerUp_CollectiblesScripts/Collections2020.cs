@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Collections : MonoBehaviour
+public class Collections2020 : MonoBehaviour
 {
     public List<Collectible> collectibleList;
 

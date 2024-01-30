@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpinPropellerX : MonoBehaviour
+public class SpinPropellerX12021 : MonoBehaviour
 {
 
     private float speed = 100;

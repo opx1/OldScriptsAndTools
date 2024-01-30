@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine;
 using  UnityEngine.Events;
-public class MonoEvents : MonoBehaviour
+public class MonoEvents2020 : MonoBehaviour
 {
     public UnityEvent startEvent, awakeEvent, onEnableEvent;
     public float holdTime;

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class TriggerEventsBehavior : MonoBehaviour
+public class TriggerEventsBehavior2020 : MonoBehaviour
 {
    public UnityEvent triggerEnterEvent;
 

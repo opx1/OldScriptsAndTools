@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveForward : MonoBehaviour
+public class MoveForward22021 : MonoBehaviour
 {
     public float speed = 40.0f;
     

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveLeftX : MonoBehaviour
+public class MoveLeftX32021 : MonoBehaviour
 {
     public float speed;
     private PlayerControllerX playerControllerScript;

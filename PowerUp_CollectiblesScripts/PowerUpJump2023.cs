@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class PowerUpJump : MonoBehaviour
+public class PowerUpJump2023 : MonoBehaviour
 {
     public PlayerController playerControllerScript;
     public UnityEvent playSound;

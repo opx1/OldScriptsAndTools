@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-public class FallingPlatform : MonoBehaviour
+public class FallingPlatform2023 : MonoBehaviour
 {
     public Rigidbody rb;
     public UnityEvent playSound;

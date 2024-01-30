@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController2022 : MonoBehaviour
 {
     public float horizontalInput;
     public float speed;

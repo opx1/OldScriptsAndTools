@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ApplyForces : MonoBehaviour
+public class ApplyForces2020 : MonoBehaviour
 {
     
     public Rigidbody rBody;

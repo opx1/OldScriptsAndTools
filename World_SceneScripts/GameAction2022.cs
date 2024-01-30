@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Events;
 
 [CreateAssetMenu]
-public class GameAction : ScriptableObject
+public class GameAction2022 : ScriptableObject
 {
     public UnityAction raise;
 

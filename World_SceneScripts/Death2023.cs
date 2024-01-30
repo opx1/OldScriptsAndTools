@@ -7,7 +7,7 @@ using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class Death : MonoBehaviour
+public class Death2023 : MonoBehaviour
 {
     public UnityEvent playSound;
     public Animator characterAnims;

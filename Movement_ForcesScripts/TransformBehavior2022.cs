@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TransformBehavior : MonoBehaviour
+public class TransformBehavior2022 : MonoBehaviour
 {
    public void ResetToZero()
    {

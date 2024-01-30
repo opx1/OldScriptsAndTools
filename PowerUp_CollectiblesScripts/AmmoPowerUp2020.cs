@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-public class AmmoPowerUp : MonoBehaviour
+public class AmmoPowerUp2020 : MonoBehaviour
 {
  public int ammo;
 

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class FiringProjectile : MonoBehaviour
+public class FiringProjectile2023 : MonoBehaviour
 {
     public Rigidbody projectilePrefab;
     public bool isShooting = false;

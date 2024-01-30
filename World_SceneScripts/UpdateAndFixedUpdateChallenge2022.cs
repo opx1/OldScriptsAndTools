@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class UpdateAndFixedUpdate : MonoBehaviour
+public class UpdateAndFixedUpdateChallenge2022 : MonoBehaviour
 {
     void FixedUpdate ()
     {

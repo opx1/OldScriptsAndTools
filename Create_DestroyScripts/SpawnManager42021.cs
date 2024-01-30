@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpawnManager : MonoBehaviour
+public class SpawnManager42021 : MonoBehaviour
 {
     public GameObject enemyPrefab;
     private float spawnRange = 9;

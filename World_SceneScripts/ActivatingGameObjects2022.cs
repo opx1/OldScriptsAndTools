@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class ActiveObjects : MonoBehaviour
+public class ActivatingGameObjects2022 : MonoBehaviour
 {
     void Start ()
     {

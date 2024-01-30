@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class UsingInstantiate : MonoBehaviour
+public class Instantiate2022 : MonoBehaviour
 {
     public Rigidbody rocketPrefab;
     public Transform barrelEnd;

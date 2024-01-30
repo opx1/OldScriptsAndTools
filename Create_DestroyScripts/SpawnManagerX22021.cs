@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpawnManagerX : MonoBehaviour
+public class SpawnManagerX22021 : MonoBehaviour
 {
     public GameObject[] ballPrefabs;
 

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class ChargePowerUP : MonoBehaviour
+public class ChargePowerUP2020 : MonoBehaviour
 {
    public int charge;
 

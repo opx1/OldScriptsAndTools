@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Destroyer : MonoBehaviour
+public class Destroyer2020 : MonoBehaviour
 {
   private void OnCollisionEnter(Collision other)
   {

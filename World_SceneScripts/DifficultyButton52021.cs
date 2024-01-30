@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class DifficultyButton : MonoBehaviour
+public class DifficultyButton52021 : MonoBehaviour
 {
     private Button button;
     private GameManager gameManager;

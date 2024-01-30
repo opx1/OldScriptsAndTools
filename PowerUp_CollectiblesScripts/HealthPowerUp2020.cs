@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class HealthPowerUp : MonoBehaviour
+public class HealthPowerUp2020 : MonoBehaviour
 {
    public int health;
 

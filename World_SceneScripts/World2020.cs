@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class World : SceneController
+public class World2020 : SceneController
 {
     public Transform player;
     public Transform start1;

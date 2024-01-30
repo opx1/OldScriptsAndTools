@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RepeatBackgroundX : MonoBehaviour
+public class RepeatBackgroundX32021 : MonoBehaviour
 {
     private Vector3 startPos;
     private float repeatWidth;

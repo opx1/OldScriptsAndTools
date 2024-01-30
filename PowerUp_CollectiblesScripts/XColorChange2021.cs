@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class XColorChange : MonoBehaviour
+public class XColorChange2021 : MonoBehaviour
 {
     private SpriteRenderer spriteRenderer;
     public Image blue;

@@ -2,7 +2,7 @@ using System;
 using UnityEngine.Events;
 using UnityEngine;
 
-public class TriggerEventBehavior : MonoBehaviour
+public class TriggerEventBehavior2022 : MonoBehaviour
 {
    public UnityEvent triggerEnterEvent;
 

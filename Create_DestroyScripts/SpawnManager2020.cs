@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class SpawnManager : MonoBehaviour
+public class SpawnManager2020 : MonoBehaviour
 {
     public GameObject[] animalPrefabs;
     private float spawnRangeX = 12;

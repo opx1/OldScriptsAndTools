@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Instancer : MonoBehaviour
+public class Instancer2020 : MonoBehaviour
 {
    public GameObject prefab;
    public float delay = 2f;

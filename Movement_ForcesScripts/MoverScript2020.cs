@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoverScript : MonoBehaviour
+public class MoverScript2020 : MonoBehaviour
 {
    public float moveSpeed;
    private Vector3 moveDirection;

@@ -13,7 +13,7 @@ namespace HelloWorld
         }
     }
 }
-public class MainPlayer : MonoBehaviour
+public class MainPlayer2021 : MonoBehaviour
 {
     public string myName;
     void Start()

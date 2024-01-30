@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DestroyObjectX : MonoBehaviour
+public class DestroyObjectX52021 : MonoBehaviour
 {
     void Start()
     {

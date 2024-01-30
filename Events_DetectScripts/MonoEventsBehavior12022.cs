@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-public class MonoEventsBehavior : MonoBehaviour
+public class MonoEventsBehavior12022 : MonoBehaviour
 {
     public UnityEvent startEvent, awakeEvent, disableEvent;
 

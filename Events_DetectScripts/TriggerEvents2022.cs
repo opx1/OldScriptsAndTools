@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class TriggerEvents : MonoBehaviour
+public class TriggerEvents2022 : MonoBehaviour
 {
     public UnityEvent triggerEvent;
 

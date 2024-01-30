@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 
-public class KeyInput : MonoBehaviour
+public class GetButtonAndGetKey2022 : MonoBehaviour
 {
     public Image graphic;
     public Sprite standard;

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControllerX : MonoBehaviour
+public class PlayerControllerX2020 : MonoBehaviour
 {
     public float speed = 25.0f;
     public float rotationSpeed = 25.0f;

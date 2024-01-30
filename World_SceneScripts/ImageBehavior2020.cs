@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Image))]
-public class ImageBehavior : MonoBehaviour
+public class ImageBehavior2020 : MonoBehaviour
 {
     private Image img;
     public void Start()

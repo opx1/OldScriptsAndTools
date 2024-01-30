@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class MouseClick : MonoBehaviour
+public class OnMouseDown2022 : MonoBehaviour
 {
 
     private Rigidbody rb;

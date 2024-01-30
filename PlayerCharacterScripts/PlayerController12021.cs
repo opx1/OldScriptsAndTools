@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController12021 : MonoBehaviour
 {
 
     private float turnSpeed = 50.0f;

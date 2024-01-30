@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RockGravity : MonoBehaviour
+public class RockGravity2020 : MonoBehaviour
 {
     public float gravity = -9.81f;
     private Vector3 moveDirection;

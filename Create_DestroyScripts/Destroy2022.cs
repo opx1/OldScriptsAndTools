@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class DestroyBasic : MonoBehaviour
+public class Destroy2022 : MonoBehaviour
 {
     void Update ()
     {

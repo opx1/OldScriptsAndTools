@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControllerX : MonoBehaviour
+public class PlayerControllerX12021 : MonoBehaviour
 {
     [SerializeField] protected float speed;
     [SerializeField] float rotationSpeed;

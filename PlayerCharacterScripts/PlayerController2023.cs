@@ -6,7 +6,7 @@ using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 using Vector3 = UnityEngine.Vector3;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController2023 : MonoBehaviour
 {
     public float horizontalInput;
 

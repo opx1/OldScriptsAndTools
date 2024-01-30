@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RotateCamera : MonoBehaviour
+public class RotateCamera2020 : MonoBehaviour
 {
     public float rotationSpeed;
     // Start is called before the first frame update

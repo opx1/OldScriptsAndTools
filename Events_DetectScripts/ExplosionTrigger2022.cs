@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ExplosionTrigger : MonoBehaviour
+public class ExplosionTrigger2022 : MonoBehaviour
 {
     public GameObject uFO;
     public GameObject explosion;

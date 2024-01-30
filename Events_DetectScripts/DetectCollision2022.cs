@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DetectCollision : MonoBehaviour
+public class DetectCollision2022 : MonoBehaviour
 {
     public ScoreManager scoreManager;
 

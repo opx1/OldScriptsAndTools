@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ObjectPooler : MonoBehaviour
+public class ObjectPooler22021 : MonoBehaviour
 {
     public static ObjectPooler SharedInstance;
     public List<GameObject> pooledObjects;

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ChangeScene : MonoBehaviour
+public class ChangeScene2020 : MonoBehaviour
 {
     [SerializeField] private string toScene;
     private SceneController sceneController;

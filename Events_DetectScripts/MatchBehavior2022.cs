@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class MatchBehavior : MonoBehaviour
+public class MatchBehavior2022 : MonoBehaviour
 {
    public ID idObj;
    public UnityEvent matchEvent, noMatchEvent, noMatchDelayedEvent;

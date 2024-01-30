@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class OnClickEvents : MonoBehaviour
+public class OnClickEvents2022 : MonoBehaviour
 {
    public UnityEvent onClickEvent;
 

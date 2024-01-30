@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DestroyOutOfBounds : MonoBehaviour
+public class DestroyOutOfBounds22021 : MonoBehaviour
 {
     private float topBound = 30;
     private float lowerBound = -10;

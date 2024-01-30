@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-public class GameActionHandler : MonoBehaviour
+public class GameActionHandler2022 : MonoBehaviour
 {
     public GameAction gameActionObj;
     public UnityEvent onRaiseEvent;

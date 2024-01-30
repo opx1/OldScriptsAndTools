@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DetectCollisions : MonoBehaviour
+public class DetectCollisions2020 : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()

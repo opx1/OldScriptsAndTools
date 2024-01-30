@@ -3,7 +3,7 @@ using UnityEngine;
 
 [RequireComponent(typeof(CharacterController))]
 
-public class CharacterMover : MonoBehaviour
+public class CharacterMover2020 : MonoBehaviour
 {
     private CharacterController controller;
     

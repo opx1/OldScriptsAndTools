@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(SpriteRenderer))]
-public class SpriteBehavior : MonoBehaviour
+public class SpriteBehavior2022 : MonoBehaviour
 {
     private SpriteRenderer rendererObj;
     void Awake()

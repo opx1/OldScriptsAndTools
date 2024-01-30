@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerScore : MonoBehaviour
+public class PlayerScore2020 : MonoBehaviour
 {
     public int score = 200;
     // Start is called before the first frame update

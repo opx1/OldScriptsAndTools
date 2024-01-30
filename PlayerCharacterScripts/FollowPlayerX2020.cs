@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FollowPlayerX : MonoBehaviour
+public class FollowPlayerX2020 : MonoBehaviour
 {
     public GameObject plane;
     private Vector3 offset = new Vector3(40,0,0);

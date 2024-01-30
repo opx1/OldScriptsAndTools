@@ -1,7 +1,7 @@
 sing UnityEngine;
 using System.Collections;
 
-public class UsingOtherComponents : MonoBehaviour
+public class GetComponent2022 : MonoBehaviour
 {
     public GameObject otherGameObject;
     

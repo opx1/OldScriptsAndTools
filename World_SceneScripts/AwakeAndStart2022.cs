@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class AwakeAndStart : MonoBehaviour
+public class AwakeAndStart2022 : MonoBehaviour
 {
     void Awake ()
     {

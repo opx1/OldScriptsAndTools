@@ -3,7 +3,7 @@ using UnityEngine;
 using Random = UnityEngine.Random;
 
 [CreateAssetMenu]
-public class Instancer : ScriptableObject
+public class Instancer2022 : ScriptableObject
 {
     public GameObject prefab;
     private int num;

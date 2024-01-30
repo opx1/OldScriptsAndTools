@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class AxisExample : MonoBehaviour
+public class GetAxicChallenge2022 : MonoBehaviour
 {
     public float range;
     public Text textOutput;

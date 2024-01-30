@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class EnableComponents : MonoBehaviour
+public class EnableAndDisablingComponents2022 : MonoBehaviour
 {
     private Light myLight;
     

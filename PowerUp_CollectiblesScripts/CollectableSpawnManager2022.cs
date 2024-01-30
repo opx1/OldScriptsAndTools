@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CollectableSpawnManager : MonoBehaviour
+public class CollectableSpawnManager2022 : MonoBehaviour
 {
     public GameObject[] collectPrefabs;
     private float spawnRangex = 20f;

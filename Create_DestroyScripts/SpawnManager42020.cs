@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class SpawnManager : MonoBehaviour
+public class SpawnManager42020 : MonoBehaviour
 {
     public GameObject enemyPrefab;
     public GameObject powerupPrefab;

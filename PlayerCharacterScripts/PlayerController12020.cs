@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController12020 : MonoBehaviour
 {
     private float speed = 20.0f;
     private float horizontalInput;

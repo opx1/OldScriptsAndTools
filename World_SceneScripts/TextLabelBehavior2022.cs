@@ -4,7 +4,7 @@ using UnityEngine.Events;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Text))]
-public class TextLabelBehavior : MonoBehaviour
+public class TextLabelBehavior2022 : MonoBehaviour
 {
     private Text label;
     public UnityEvent startEvent;

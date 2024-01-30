@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraPan : MonoBehaviour
+public class CameraPan2021 : MonoBehaviour
 {
     private GameObject player;
     private Vector2 lookDirection;

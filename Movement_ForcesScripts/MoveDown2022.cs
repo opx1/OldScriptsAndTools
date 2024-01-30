@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveDown : MonoBehaviour
+public class MoveDown2022 : MonoBehaviour
 {
     public float speed = 40.0f;
     
